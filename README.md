@@ -1,2 +1,2 @@
 # CYL_Prototipo
-Castilla y Leona protipo
+Castilla y Leona prototipo
